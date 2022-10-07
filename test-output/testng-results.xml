@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86797" started-at="2022-10-07T18:46:58 IST" finished-at="2022-10-07T18:48:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86797" started-at="2022-10-07T18:46:58 IST" finished-at="2022-10-07T18:48:25 IST">
+      <class name="HomePageTestCases.HomePageTests">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:HomePageTestCases.HomePageTests@69379752]" name="browserLaunch" is-config="true" duration-ms="82718" started-at="2022-10-07T18:46:58 IST" finished-at="2022-10-07T18:48:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:HomePageTestCases.HomePageTests@69379752]" name="login" duration-ms="3986" started-at="2022-10-07T18:48:21 IST" finished-at="2022-10-07T18:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:HomePageTestCases.HomePageTests@69379752]" name="browserClose" is-config="true" duration-ms="0" started-at="2022-10-07T18:48:25 IST" finished-at="2022-10-07T18:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- HomePageTestCases.HomePageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
